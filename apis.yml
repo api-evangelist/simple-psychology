@@ -21,5 +21,7 @@ maintainers:
 x-backed-by:
 - nea
 common:
+- type: DomainSecurity
+  url: security/simple-psychology-domain-security.yml
 - type: Website
   url: https://www.jiandanxinli.com
